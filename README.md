@@ -14,7 +14,7 @@ The dataset images were normalized with the combination of four stain normalizat
 | Normalized images | 3 | 8-bit | JPG | 5472 |
 
 ### Dataset Access
-The dataset can be downloaded [here](https://ufubr-my.sharepoint.com/:f:/g/personal/adriano_barbosa_ufu_br/Erdu9z-S9txJjG5AAcuOgL4BrKAjqRYPCyDWmAqohIpqCg?e=1scP08)
+The dataset can be downloaded [here](https://zenodo.org/records/17693395)
 
 Citation:
 - SILVA, ADRIANO BARBOSA ; MARTINS, ALESSANDRO SANTANA ; TOSTA, THAÍNA APARECIDA AZEVEDO ; LOYOLA, ADRIANO MOTA ; CARDOSO, SÉRGIO VITORINO ; NEVES, Leandro Alves ; DE FARIA, PAULO ROGÉRIO ; DO NASCIMENTO, MARCELO ZANCHETTA . OralEpitheliumDB: A Dataset for Oral Epithelial Dysplasia Image Segmentation and Classification. Journal of Imaging Informatics in Medicine, v. 1, p. 20, 2024
